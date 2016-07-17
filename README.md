@@ -2,6 +2,9 @@
 
 High-contrast [HyperTerm](https://hyperterm.org) theme based on @mdo's [hyperterm-atom-dark](https://github.com/mdo/hyperterm-atom-dark).
 
+![Prompt](http://i.imgur.com/PyADjMD.png)
+![Vim](http://i.imgur.com/SpyEUij.png)
+
 ### Install
 
 1. Open HyperTerm's preferences with `Cmd+,` (or manually at `~/.hyperterm.js`) with your editor.
